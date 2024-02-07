@@ -54,7 +54,7 @@ This repository contains the answer code from the test given
 2. Set up the database using the provided schema and initial data backup.
 3. Configure the database connection in the application configuration.
 4. Run the application.
-5. Import the Postman collection for testing the API endpoints.
+5. Import the Postman collection for testing the API endpoints (https://www.postman.com/telecoms-pilot-17135380/workspace/backend/collection/27422840-4b6ad558-f0e4-4053-8dd2-9ced1f8385af?action=share&creator=27422840)
 
 ## Technologies Used
 
