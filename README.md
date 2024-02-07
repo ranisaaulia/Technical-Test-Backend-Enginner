@@ -59,5 +59,5 @@ This repository contains the answer code from the test given
 ## Technologies Used
 
 - Golang
-- PostgreSQL / SQL Server
+- PostgreSQL
 - Go Fiber
