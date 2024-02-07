@@ -2,14 +2,6 @@
 
 This repository contains the answer code from the test given 
 
-## Requirements
-
-1. **Source Code**: The API source code is written in Golang.
-2. **Database**: PostgreSQL or SQL Server can be used as the backend database.
-3. **Framework**: Go Fiber is utilized as the HTTP framework for building the API.
-4. **Postman Collection**: A Postman collection is included to demonstrate and test the API endpoints.
-5. **Database Backup**: A backup of the database schema and initial data is provided for easy setup and testing.
-
 ## Task List
 
 1. **API CRUD for Master Data Department**: 
